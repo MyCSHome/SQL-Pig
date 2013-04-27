@@ -1,6 +1,6 @@
 SQL-Pig-Latin
 =============
-C312 Advanced Databases coursework, written in 
+Imperial C312 Advanced Databases coursework, written in 
 
 SQL 
 
